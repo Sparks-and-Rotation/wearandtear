@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "fr.sparkandrotation.createwearandtear.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "CreateWearAndTear.refmap.json",
+  "mixins": [
+    "MixinKineticBlockEntity"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

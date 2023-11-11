@@ -1,0 +1,6 @@
+{
+  "tooltip.head": "Wearing status",
+  "tooltip.destroy.txt": "DESTROYED MACHINE",
+  "tooltip.repair.wrench": "Click on this block with wrench to repair",
+  "wrench.block_is_full": "Machine fully repaired"
+}
